@@ -8,7 +8,7 @@ LSTM network is used while solving this problem
 # STORY : 
 A part of the main content of the article to be published as a piece of news.
 
-#SECTION: 
+# SECTION: 
 The genre/category the STORY falls in.
 
 There are four distinct sections where each story may fall in to. The Sections are labelled as follows :
